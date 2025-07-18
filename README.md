@@ -204,7 +204,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件。
 - [Timeshift](https://github.com/teejee2008/timeshift) - 优秀的系统快照工具
 - ZSH 补全系统文档
 - 所有贡献者和测试者
-- 以及Claude哈哈哈哈
 ---
 
 **享受更高效的 timeshift 命令行体验！** 🎉
