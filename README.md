@@ -16,7 +16,7 @@ Zsh completion plugin for [Timeshift](https://github.com/linuxmint/timeshift) (v
 
 ```bash
 # Clone into custom plugins directory
-git clone https://github.com/<your-user>/timeshift-completion \
+git clone https://github.com/mejistus/timeshift-completion \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/timeshift-completion
 
 # Or just copy the file
