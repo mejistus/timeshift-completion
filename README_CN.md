@@ -16,7 +16,7 @@
 
 ```bash
 # 克隆到自定义插件目录
-git clone https://github.com/<your-user>/timeshift-completion \
+git clone https://github.com/mejistus/timeshift-completion \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/timeshift-completion
 
 # 或直接复制文件
